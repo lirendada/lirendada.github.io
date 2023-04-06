@@ -19,6 +19,33 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Blog_Plan</title>
+    <url>/post/1f49fa70.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
+<h1 id="Plan"><a href="#Plan" class="headerlink" title="Plan"></a>Plan</h1><p>接下来的笔记大概会按下面内容分享：</p>
+<ul>
+<li>C语言的一些比较复杂的知识点（简单的语法相信大家都会啦👍）</li>
+<li>C++</li>
+<li>数据结构（大部分基于C&#x2F;C++）</li>
+<li>Linux基础工具的使用</li>
+<li>Linux系统编程</li>
+<li>Linux网络编程</li>
+<li>MySQL</li>
+<li>一些平时使用的工具</li>
+<li>校招资料</li>
+<li>刷题笔记</li>
+<li>后续学习内容不断补充……</li>
+</ul>
+<p>除此之外，我有计划在实习之后拍摄这些内容的视频版本，因为对于我个人来说是学习进步最快的方式就是看视频和实践，所以希望我也能让别人得到帮助🧨</p>
+]]></content>
+      <categories>
+        <category>忙里偷闲</category>
+      </categories>
+      <tags>
+        <tag>博客计划</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>排序算法</title>
     <url>/post/0.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Ⅰ、排序的概念及其运用"><a href="#Ⅰ、排序的概念及其运用" class="headerlink" title="Ⅰ、排序的概念及其运用"></a>Ⅰ、排序的概念及其运用</h2><h3 id="1-1-排序的概念"><a href="#1-1-排序的概念" class="headerlink" title="1.1 排序的概念"></a>1.1 排序的概念</h3><blockquote>
